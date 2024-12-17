@@ -1,7 +1,5 @@
 # Brain Tumor Detection
 
-# Brain Tumor Detection using Vision Transformer  
-
 ## Authors  
 - **Dr. Hong Cheng** 
 - **Rupesh Konduru** 
