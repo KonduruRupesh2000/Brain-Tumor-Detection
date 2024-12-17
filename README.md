@@ -3,8 +3,8 @@
 # Brain Tumor Detection using Vision Transformer  
 
 ## Authors  
-- **Dr. Hong Cheng** (hcheng@saumag.edu)  
-- **Rupesh Konduru** (RKonduru4501@muleriders.saumag.edu)  
+- **Dr. Hong Cheng** 
+- **Rupesh Konduru** 
 
 ## Overview  
 This project utilizes **Vision Transformer (ViT)** to predict brain tumor labels and generate bounding boxes around detected tumors. The model is trained on a brain tumor dataset to classify tumors into four categories:  
